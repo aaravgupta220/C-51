@@ -1,0 +1,31 @@
+    h1{
+        color : lightblue;
+    }
+    *{
+        border : solid;
+    }
+
+    .header{
+        background-color: #787878;
+        display: flex;
+        justify-content: space-between;
+        font-size: 150%;
+    }
+
+    .grid{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    p,h2{
+        text-align: center;
+    }
+
+    body{
+        background-color: #808080;
+    }
